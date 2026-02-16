@@ -1,0 +1,36 @@
+.navigation-principale a {
+    text-decoration: none;
+    color: black;
+}
+
+.navigation-principale a:hover {
+    color: #f165ab;
+}
+
+.navigation-principale a:visited {
+    text-decoration: none;
+}
+
+.rose .navigation-principale a:hover {
+    color: #ef509f;
+}
+
+.vert .navigation-principale a:hover {
+    color: #28a745;
+}
+
+.turquoise .navigation-principale a:hover {
+    color: #0bb996;
+}
+
+.bleu .navigation-principale a:hover {
+    color: #3c8399;
+}
+
+.rouge .navigation-principale a:hover {
+    color: #eb0706;
+}
+
+.jaune .navigation-principale a:hover {
+    color: #cdb30a;
+}

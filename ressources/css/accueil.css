@@ -1,0 +1,28 @@
+.bulle-icone-bordure {
+    background-color:#A50253;
+}
+
+.img-1 {
+    width: 50rem;
+}
+.text {
+    width: 45rem;
+    margin: 2rem;
+    line-height: 1.4rem;
+}
+.article-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+}
+.liste-articles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.box-shadow {
+    box-shadow: 0px 4px 2px 0px rgba(0,0,0,0.11);
+    -webkit-box-shadow: 0px 4px 2px 0px rgba(0,0,0,0.11);
+    -moz-box-shadow: 0px 4px 2px 0px rgba(0,0,0,0.11);
+    margin-top: 2.2rem;
+}

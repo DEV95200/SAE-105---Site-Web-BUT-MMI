@@ -1,0 +1,77 @@
+.bulle-icone.turquoise {
+    background-color: #0ceec0;
+}
+.bulle-icone-bordure {
+    background-color: #03886d;
+}
+.espacement {
+    margin-top: 1rem;
+}
+.saut {
+    margin-bottom: 3rem;
+}
+.border {
+    border: solid 1px;
+    border-color: #03886d;
+    background-color: #f9f9f9;
+    width: 10rem;
+}
+.ancres {
+    line-height: 2rem;
+    margin-left: 1rem;
+}
+.ancres a {
+    text-decoration: none;
+    color: #03886d;
+}
+.article {
+    line-height: 1.4rem;
+}
+.img-foret {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.title {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.column-1, .column-2 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2.5rem;
+    margin-top: 1rem;
+}
+.column-2 {
+    margin-top: 3rem;
+}
+.card {
+    box-shadow: 0px 4px 2px 0px rgba(0, 0, 0, 0.11);
+    -webkit-box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.11);
+    -moz-box-shadow: 0px 4px 2px 0px rgba(0, 0, 0, 0.11);
+}
+.card img {
+    width: 24.5rem;
+}
+.title-card {
+    line-height: 2.2rem;
+    margin-left: 1rem;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+.content {
+    line-height: 1.4rem;
+    margin-left: 1rem;
+    margin-bottom: 10rem;
+}
+.bas-de-page {
+    width: 78.5rem;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8rem;
+    margin-bottom: 10rem;
+}
+.texte {
+    line-height: 1.4rem;
+    margin-left: 2rem;
+}
