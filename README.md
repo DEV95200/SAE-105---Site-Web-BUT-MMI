@@ -1,5 +1,3 @@
-# SAE-105---Site-Web-BUT-MMI
-
 # SAÉ 105 - Site Web BUT MMI - Récapitulatif du Projet
 
 <div align="center">
